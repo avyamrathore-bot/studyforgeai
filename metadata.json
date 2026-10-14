@@ -1,0 +1,8 @@
+{
+  "name": "StudyForge AI",
+  "description": "AI-powered study platform with CBSE/ICSE board modes, smart notes from PDFs, MCQs, interactive quizzes, flashcards, question image solver, Hindi-English translation, and progress dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
